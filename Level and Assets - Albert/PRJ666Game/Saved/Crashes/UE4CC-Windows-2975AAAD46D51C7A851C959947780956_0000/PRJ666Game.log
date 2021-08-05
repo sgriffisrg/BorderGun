@@ -1,0 +1,1089 @@
+﻿Log file open, 08/05/21 08:35:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PRJ666Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283885
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:207][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.05-12.35.18:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.05-12.35.18:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.05-12.35.18:275][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.05-12.35.18:275][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.05-12.35.18:275][  0]LogHAL: Display: Platform has ~ 16 GB [17126653952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.05-12.35.18:275][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.05-12.35.18:275][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.05-12.35.18:275][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.05-12.35.18:276][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.05-12.35.18:277][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.05-12.35.18:277][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.05-12.35.18:277][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.05-12.35.18:277][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Config/Windows/Engine.ini]
+[2021.08.05-12.35.18:277][  0]LogInit: Computer: DESKTOP-7GA511J
+[2021.08.05-12.35.18:277][  0]LogInit: User: Stephen
+[2021.08.05-12.35.18:277][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.08.05-12.35.18:277][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.05-12.35.18:277][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.08.05-12.35.18:277][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.05-12.35.18:277][  0]LogMemory: Process Physical Memory: 143.89 MB used, 143.89 MB peak
+[2021.08.05-12.35.18:277][  0]LogMemory: Process Virtual Memory: 127.38 MB used, 127.38 MB peak
+[2021.08.05-12.35.18:277][  0]LogMemory: Physical Memory: 7130.11 MB used,  9203.14 MB free, 16333.25 MB total
+[2021.08.05-12.35.18:277][  0]LogMemory: Virtual Memory: 134207992.00 MB used,  9732.90 MB free, 134217728.00 MB total
+[2021.08.05-12.35.18:286][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.05-12.35.18:412][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.05-12.35.18:413][  0]LogInit: Using OS detected language (en-US).
+[2021.08.05-12.35.18:413][  0]LogInit: Using OS detected locale (en-CA).
+[2021.08.05-12.35.18:421][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.05-12.35.18:608][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.05-12.35.18:622][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.05-12.35.18:708][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.05-12.35.18:708][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.05-12.35.18:953][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.05-12.35.18:953][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.05-12.35.18:953][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.05-12.35.18:953][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.05-12.35.19:065][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.08.05-12.35.19:065][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.05-12.35.19:068][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.05-12.35.19:068][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.05-12.35.19:068][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.05-12.35.19:076][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.05-12.35.19:076][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.05-12.35.19:076][  0]LogWindows: EnumDisplayDevices:
+[2021.08.05-12.35.19:076][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.08.05-12.35.19:077][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.08.05-12.35.19:078][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.08.05-12.35.19:079][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.08.05-12.35.19:080][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.05-12.35.19:080][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.08.05-12.35.19:080][  0]LogD3D11RHI:   Driver Version: 466.47 (internal:27.21.14.6647, unified:466.47)
+[2021.08.05-12.35.19:080][  0]LogD3D11RHI:      Driver Date: 5-13-2021
+[2021.08.05-12.35.19:080][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.08.05-12.35.19:167][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.05-12.35.19:167][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.05-12.35.19:167][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.05-12.35.19:170][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061087).
+[2021.08.05-12.35.19:186][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.05-12.35.19:188][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.05-12.35.19:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.05-12.35.19:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.05-12.35.19:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.05-12.35.19:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.05-12.35.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.05-12.35.19:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.05-12.35.19:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.05-12.35.19:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.05-12.35.19:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.05-12.35.19:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.05-12.35.19:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.05-12.35.19:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.05-12.35.19:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.05-12.35.19:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.05-12.35.19:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.05-12.35.19:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.05-12.35.19:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.05-12.35.19:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.05-12.35.19:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.05-12.35.19:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.05-12.35.19:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.05-12.35.19:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.05-12.35.19:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.05-12.35.19:864][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.05-12.35.19:876][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.05-12.35.19:972][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.05-12.35.19:973][  0]LogShaderCompilers: Guid format shader working directory is -57 characters bigger than the processId version (../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Intermediate/Shaders/WorkingDirectory/13872/).
+[2021.08.05-12.35.19:973][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stephen/AppData/Local/Temp/UnrealShaderWorkingDir/01E1355D4710A024B5516C8D50254B93/'.
+[2021.08.05-12.35.19:973][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.05-12.35.19:973][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.05-12.35.20:741][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.05-12.35.20:787][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Stephen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.05-12.35.20:787][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stephen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.05-12.35.20:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.05-12.35.20:787][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.05-12.35.20:788][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.05-12.35.20:788][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.05-12.35.20:800][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.05-12.35.20:800][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.05-12.35.20:800][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.05-12.35.20:810][  0]LogDerivedDataCache: Speed tests for C:/Users/Stephen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.05-12.35.20:810][  0]LogDerivedDataCache: Display: Performance to C:/Users/Stephen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=797.60MBs, RandomWriteSpeed=122.90MBs. Assigned SpeedClass 'Local'
+[2021.08.05-12.35.20:811][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stephen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.05-12.35.20:811][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.05-12.35.20:811][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.05-12.35.20:864][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.05-12.35.20:865][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.05-12.35.20:889][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.08.05-12.35.21:152][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.05-12.35.21:152][  0]LogInit: Active device profile: [0000021B0BCDDE00][0000021B09F18AC0 49] Windows
+[2021.08.05-12.35.21:152][  0]LogInit: Profiles: [0000021B0BCDDE00][0000021B09F18AC0 49] Windows, [0000021B0BCF6300][0000021B09F20C40 49] WindowsNoEditor, [0000021B0BCDF900][0000021B09F28DC0 49] WindowsServer, [0000021B0BCF4900][0000021B6CE38F40 49] WindowsClient, [0000021B0BCDCB00][0000021B6CE450C0 49] IOS, [0000021B0BCF5400][0000021B6CE53240 49] iPadAir, [0000021B0BCDD700][0000021B098E73C0 49] iPadAir2, [0000021B0BA33400][0000021B09F1D640 49] IPadPro, [0000021B0BA33500][0000021B098EB680 49] iPadAir3, [0000021B0BCDF800][0000021B098EF7C0 49] iPadAir4, [0000021B0BA30E00][0000021B098F3900 49] iPadMini2, [0000021B0BCDCE00][0000021B098F7A40 49] iPadMini3, [0000021B0BA31300][0000021B098FFBC0 49] iPadMini4, [0000021B0BCDCD00][0000021B09907D40 49] iPadMini5, [0000021B0BA72D00][0000021B0990E340 49] iPhone6, [0000021B0BA72E00][0000021B0990A380 49] iPodTouch6, [0000021B0BA33E00][0000021B09916640 49] iPhone7, [0000021B0BA33F00][0000021B09912680 49] iPodTouch7, [0000021B0BA70E00][0000021B0991A800 49] iPhone5S, [0000021B0BA33100][0000021B0991E980 49] iPhone6Plus, [0000021B0BA71200][0000021B09922B00 49] iPhone6S, [0000021B0BA31200][0000021B09926C80 49] iPhone6SPlus, [0000021B0BA72900][0000021B0992AE00 49] iPhone7Plus, [0000021B0BA33900][0000021B0992EF80 49] iPhoneSE, [0000021B0BA72F00][0000021B09933100 49] iPhone8, [0000021B0BA33200][0000021B09937280 49] iPhone8Plus, [0000021B0BA72100][0000021B0993B400 49] iPhoneX, [0000021B0BA31A00][0000021B0993F580 49] iPhoneXS, [0000021B0BA70500][0000021B09943700 49] iPhoneXSMax, [0000021B0BA30400][0000021B098FB840 49] iPhoneXR, [0000021B0BA73F00][0000021B09947980 49] iPhone11, [0000021B0BA30500][0000021B0994BAC0 49] iPhone11Pro, [0000021B0BA73100][0000021B09953C40 49] iPhone11ProMax, [0000021B0BA33800][0000021B09970100 49] iPhoneSE2, [0000021B0BA71F00][0000021B09974280 49] iPhone12Mini, [0000021B0BA31C00][0000021B09978400 49] iPhone12, [0000021B0BA71900][0000021B0997C580 49] iPhone12Pro, [0000021B0BA33000][0000021B09980700 49] iPhone12ProMax, [0000021B0BA71B00][0000021B09984880 49] iPadPro105, [0000021B0BA32100][0000021B09988A00 49] iPadPro129, [0000021B0BA72C00][0000021B0998CB80 49] iPadPro97, [0000021B0BA71100][0000021B09990D00 49] iPadPro2_129, [0000021B0BCF5C00][0000021B09994E80 49] iPad5, [0000021B0BA70F00][0000021B09999000 49] iPad6, [0000021B0BCF7C00][0000021B0999D180 49] iPad7, [0000021B0BA71600][0000021B099A1300 49] iPad8, [0000021B0BCF4400][0000021B099A5480 49] iPadPro11, [0000021B0BA70D00][0000021B099A9600 49] iPadPro2_11, [0000021B0BCF7100][0000021B099AD780 49] iPadPro3_129, [0000021B0BA71300][0000021B0994F8C0 49] iPadPro4_129, [0000021B0BCF4E00][0000021B099B1A00 49] AppleTV, [0000021B0BA71400][0000021B099B5B40 49] AppleTV4K, [0000021B0BCF6A00][0000021B099BDCC0 49] TVOS, [0000021B0BA33700][0000021B099C0180 49] Mac, [0000021B0BCF4A00][0000021B099C4300 49] MacClient, [0000021B0BA31900][0000021B099C8480 49] MacNoEditor, [0000021B0BCF6500][0000021B099CC600 49] MacServer, [0000021B0BA31E00][0000021B099D0780 49] Linux, [0000021B0BCF4C00][0000021B099D4900 49] LinuxNoEditor, [0000021B0BA30900][0000021B099D8A80 49] LinuxAArch64NoEditor, [0000021B0BCF6B00][0000021B099DCC00 49] LinuxClient, [0000021B0BA32800][0000021B099E0D80 49] LinuxAArch64Client, [0000021B0BCF5000][0000021B099E4F00 49] LinuxServer, [0000021B0BA33300][0000021B099E9080 49] LinuxAArch64Server, [0000021B0BCF6000][0000021B099ED200 49] Android, [0000021B0BA30F00][0000021B099F1380 49] Android_Low, [0000021B0BCF5300][0000021B099F5500 49] Android_Mid, [0000021B0BA32C00][0000021B099F9680 49] Android_High, [0000021B0BCF6400][0000021B099FD800 49] Android_Default, [0000021B0BA31100][0000021B099B9940 49] Android_Adreno4xx, [0000021B0BCF6200][0000021B09A01A80 49] Android_Adreno5xx_Low, [0000021B0BA32B00][0000021B09A05BC0 49] Android_Adreno5xx, [0000021B0BCF7800][0000021B09A09D00 49] Android_Adreno6xx, [0000021B0BA30100][0000021B09A101C0 49] Android_Adreno6xx_Vulkan, [0000021B0BCF5800][0000021B09A14340 49] Android_Mali_T6xx, [0000021B0BA31600][0000021B09A184C0 49] Android_Mali_T7xx, [0000021B0BCF5200][0000021B09A1C640 49] Android_Mali_T8xx, [0000021B0BA30300][0000021B09A207C0 49] Android_Mali_G71, [0000021B0BCF6D00][0000021B09A24940 49] Android_Mali_G72, [0000021B0BA30B00][0000021B09A28AC0 49] Android_Mali_G72_Vulkan, [0000021B0BCF6900][0000021B09A2CC40 49] Android_Mali_G76, [0000021B0BA31400][0000021B09A30DC0 49] Android_Mali_G76_Vulkan, [0000021B0BCF7D00][0000021B09A34F40 49] Android_Mali_G77, [0000021B0BA30700][0000021B09A390C0 49] Android_Mali_G77_Vulkan, [0000021B0BCF7300][0000021B09A3D240 49] Android_Vulkan_SM5, [0000021B0BA32600][0000021B09A413C0 49] Android_PowerVR_G6xxx, [0000021B0BCF6E00][0000021B09A45540 49] Android_PowerVR_GT7xxx, [0000021B0BA31B00][0000021B09A496C0 49] Android_PowerVR_GE8xxx, [0000021B0BCF7000][0000021B09A4D840 49] Android_PowerVR_GM9xxx, [0000021B0BA32400][0000021B09A0D980 49] Android_PowerVR_GM9xxx_Vulkan, [0000021B0BCF5500][0000021B09A51AC0 49] Android_TegraK1, [0000021B0BA32000][0000021B09A55C00 49] Android_Unknown_Vulkan, [0000021B0BCF6800][0000021B09A59D40 49] Lumin, [0000021B0BA31800][0000021B09A60200 49] Lumin_Desktop, [0000021B0BCF4B00][0000021B09A64380 49] HoloLens, 
+[2021.08.05-12.35.21:270][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.05-12.35.21:270][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.05-12.35.21:270][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.05-12.35.21:270][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.05-12.35.21:270][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.05-12.35.21:340][  0]LogNetVersion: PRJ666Game 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3993906295)
+[2021.08.05-12.35.21:759][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.05-12.35.21:818][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.058053 seconds
+[2021.08.05-12.35.21:824][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.08.05-12.35.21:824][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.08.05-12.35.21:824][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.05-12.35.22:320][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.05-12.35.22:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.05-12.35.22:452][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.22:452][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.22:457][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.22:465][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.22:481][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.22:502][  0]LogUProjectInfo: Found projects:
+[2021.08.05-12.35.22:807][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.05-12.35.22:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.05-12.35.22:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.05-12.35.22:927][  0]LogCollectionManager: Loaded 0 collections in 0.002705 seconds
+[2021.08.05-12.35.22:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Collections/' took 0.00s
+[2021.08.05-12.35.22:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Developers/Stephen/Collections/' took 0.00s
+[2021.08.05-12.35.22:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Collections/' took 0.00s
+[2021.08.05-12.35.22:963][  0]LogOcInput: OculusInput pre-init called
+[2021.08.05-12.35.22:984][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.05-12.35.22:984][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.05-12.35.23:042][  0]LogEngine: Initializing Engine...
+[2021.08.05-12.35.23:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.05-12.35.23:044][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.05-12.35.23:044][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.05-12.35.23:148][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.05-12.35.23:158][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.05-12.35.23:167][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.05-12.35.23:173][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.05-12.35.23:173][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-12.35.23:173][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-12.35.23:173][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-12.35.23:173][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-12.35.23:197][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-12.35.23:197][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-12.35.23:233][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.08.05-12.35.23:236][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-12.35.23:238][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-12.35.23:238][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-12.35.23:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-12.35.23:239][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-12.35.23:239][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-12.35.23:240][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-12.35.23:240][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-12.35.23:240][  0]LogInit: FAudioDevice initialized.
+[2021.08.05-12.35.23:240][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.05-12.35.23:240][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.05-12.35.23:299][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Stephen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.05-12.35.23:300][  0]LogInit: Texture streaming: Enabled
+[2021.08.05-12.35.23:318][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.08.05-12.35.23:340][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.05-12.35.23:340][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.05-12.35.23:358][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.05-12.35.23:396][  0]LogInit: Transaction tracking system initialized
+[2021.08.05-12.35.23:426][  0]BlueprintLog: New page: Editor Load
+[2021.08.05-12.35.23:524][  0]LocalizationService: Localization service is disabled
+[2021.08.05-12.35.23:559][  0]TimingProfiler: Initialize
+[2021.08.05-12.35.23:559][  0]TimingProfiler: OnSessionChanged
+[2021.08.05-12.35.23:559][  0]LoadingProfiler: Initialize
+[2021.08.05-12.35.23:559][  0]LoadingProfiler: OnSessionChanged
+[2021.08.05-12.35.23:559][  0]NetworkingProfiler: Initialize
+[2021.08.05-12.35.23:559][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.05-12.35.23:559][  0]MemoryProfiler: Initialize
+[2021.08.05-12.35.23:559][  0]MemoryProfiler: OnSessionChanged
+[2021.08.05-12.35.23:732][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.05-12.35.23:732][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.05-12.35.23:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/' took 0.07s
+[2021.08.05-12.35.24:083][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.05-12.35.24:088][  0]SourceControl: Source control is disabled
+[2021.08.05-12.35.24:088][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.696
+[2021.08.05-12.35.24:089][  0]LightingResults: New page: Lighting Build
+[2021.08.05-12.35.24:089][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.35.24:090][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.35.24:090][  0]MapCheck: New page: Map Check
+[2021.08.05-12.35.24:090][  0]LightingResults: New page: Lighting Build
+[2021.08.05-12.35.24:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.05-12.35.24:270][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Save_Load/SaveGameInstance/BorderGunSave.BorderGunSave_C:SaveData'. Unknown structure.
+[2021.08.05-12.35.24:270][  0]LogClass: Warning: Property SaveData of SaveData has a struct type mismatch (tag STRUCT_REINST_SaveData_Struct_1 != prop FallbackStruct) in package:  ../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Save_Load/SaveGameInstance/BorderGunSave.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.08.05-12.35.24:759][  0]LogClass: Warning: Property SaveData of SaveData has a struct type mismatch (tag FallbackStruct != prop SaveData_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.08.05-12.35.25:427][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial1'.
+[2021.08.05-12.35.25:428][  0]LogAIModule: Creating AISystem for world Tutorial1
+[2021.08.05-12.35.25:457][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.05-12.35.25:477][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.08.05-12.35.25:478][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.05-12.35.25:478][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.381ms to complete.
+[2021.08.05-12.35.25:479][  0]LogFileHelpers: Loading map 'Tutorial1' took 1.390
+[2021.08.05-12.35.25:480][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.089
+[2021.08.05-12.35.25:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-12.35.25:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-12.35.25:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-12.35.25:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-12.35.25:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3601 classes and 859 folders.
+[2021.08.05-12.35.25:699][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.05-12.35.25:701][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-12.35.25:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-12.35.25:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.05-12.35.25:702][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.05-12.35.25:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.05-12.35.25:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.05-12.35.25:703][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.05-12.35.25:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.05-12.35.25:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.05-12.35.25:704][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-12.35.25:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-12.35.25:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.05-12.35.25:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.05-12.35.25:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.05-12.35.25:706][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.05-12.35.25:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.05-12.35.25:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.05-12.35.25:707][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.05-12.35.25:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.05-12.35.25:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.05-12.35.25:708][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-12.35.25:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-12.35.25:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.05-12.35.25:709][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.05-12.35.25:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.05-12.35.25:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.05-12.35.25:709][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.05-12.35.25:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.05-12.35.25:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.05-12.35.25:710][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-12.35.25:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-12.35.25:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.05-12.35.25:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-12.35.25:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-12.35.25:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.05-12.35.25:712][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-12.35.25:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-12.35.25:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.05-12.35.25:713][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.05-12.35.25:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.05-12.35.25:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.05-12.35.25:714][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-12.35.25:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-12.35.25:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.05-12.35.25:715][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.05-12.35.25:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.05-12.35.25:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-12.35.25:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-12.35.25:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.05-12.35.25:717][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-12.35.25:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-12.35.25:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.05-12.35.25:718][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-12.35.25:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-12.35.25:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.05-12.35.25:719][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-12.35.25:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-12.35.25:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.05-12.35.25:720][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.05-12.35.25:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.05-12.35.25:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.05-12.35.25:721][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-12.35.25:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-12.35.25:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-12.35.25:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-12.35.25:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.05-12.35.25:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.08.05-12.35.25:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.05-12.35.25:817][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.05-12.35.25:951][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.05-12.35.25:952][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.05-12.35.25:957][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.05-12.35.26:201][  0]LogRenderer: Reallocating scene render targets to support 1120x516 Format 10 NumSamples 1 (Frame:1).
+[2021.08.05-12.35.26:308][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.05-12.35.26:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.05-12.35.26:358][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.05-12.35.26:358][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.05-12.35.26:358][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.05-12.35.26:358][  0]LogLoad: (Engine Initialization) Total time: 9.97 seconds
+[2021.08.05-12.35.26:358][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.05-12.35.26:358][  0]LogInit: First time updating LLM stats...
+[2021.08.05-12.35.26:472][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.05-12.35.26:735][  1]LogRenderer: Reallocating scene render targets to support 1120x532 Format 10 NumSamples 1 (Frame:3).
+[2021.08.05-12.35.26:751][  1]LogAssetRegistry: Asset discovery search completed in 5.8621 seconds
+[2021.08.05-12.35.26:752][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.08.05-12.35.27:378][ 66]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.05-12.35.36:895][141]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu.LevelSelectionMenu
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator0' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator1' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator2' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator3' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::MeleeStates_MAX' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator0' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator1' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator2' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:942][141]LogEnum: Warning: Enum name collision: 'MeleeStates::NewEnumerator3' is in both '/Game/Game/Enemies/Melee/AIStuff/MeleeStates.MeleeStates' and '/Game/Retry/Enemies/Melee/AIStuff/MeleeStates.MeleeStates'
+[2021.08.05-12.35.36:984][141]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.08.05-12.35.38:383][141]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.05-12.35.40:898][426]LogSlate: Window 'LevelSelectionMenu' being destroyed
+[2021.08.05-12.35.40:905][426]LogSlate: Window 'LevelSelectionMenu' being destroyed
+[2021.08.05-12.35.40:908][426]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.35.40:908][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.35.40:918][426]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.35.40:918][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.35.55:967][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.08.05-12.36.01:406][222]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.36.04:299][536]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.05-12.36.04:324][536]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.05-12.36.05:378][662]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.08.05-12.36.05:379][662]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.05-12.37.06:000][400]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.05-12.37.06:019][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:019][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:020][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:021][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:021][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:021][400]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.Default__MainMenu_C Referenced by Default__MainMenu_C
+[2021.08.05-12.37.06:022][400]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu': Can't find file.
+[2021.08.05-12.37.06:022][400]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.MainMenu_C Referenced by MainMenu_C
+[2021.08.05-12.37.06:072][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.08.05-12.37.14:582][400]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.37.21:850][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.05-12.37.36:972][227]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.37.49:265][672]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Cristian_Menus/UI/MainMenu.MainMenu
+[2021.08.05-12.37.50:677][773]LogSlate: Window 'MainMenu' being destroyed
+[2021.08.05-12.37.50:684][773]LogSlate: Window 'MainMenu' being destroyed
+[2021.08.05-12.37.50:687][773]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.37.50:687][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.37.50:696][773]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.37.50:696][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.37.52:567][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.08.05-12.37.53:521][988]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.37.53:593][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.05-12.37.53:616][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.08.05-12.37.53:630][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.05-12.37.54:563][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.08.05-12.37.55:305][ 98]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.37.55:363][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.08.05-12.37.55:387][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.08.05-12.37.55:401][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.05-12.38.00:836][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.05-12.38.03:556][726]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.38.20:223][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.05-12.38.32:772][681]LogSlate: Window 'Replace References?' being destroyed
+[2021.08.05-12.38.32:776][681]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with MainMenu; and then delete them.
+
+Are you sure?
+[2021.08.05-12.38.32:776][681]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.38.32:783][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:784][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:784][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:785][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:785][681]LoadErrors: Failed to load /Game/Cristian_Menus/UI/MenuImages/SelectLevel.SelectLevel Referenced by SelectLevelButton
+[2021.08.05-12.38.32:786][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:786][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:787][681]LogLinker: Warning: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:787][681]LogLinker: Warning: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:798][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:798][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.32:799][681]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.38.34:263][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.08.05-12.38.34:399][681]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.05-12.38.34:776][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.08.05-12.38.35:938][681]LogSlate: Window 'Save Content' being destroyed
+[2021.08.05-12.38.35:963][681]LogSavePackage: Moving '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/MainMenu8593011043664CBC30537B9871D06F09.tmp' to '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.uasset'
+[2021.08.05-12.38.35:987][681]LogSavePackage: Moving '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/LevelSelectionMenuC0A764C6465341072275838C1D893777.tmp' to '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu.uasset'
+[2021.08.05-12.38.35:990][681]LogSavePackage: Moving '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/MainMenu_2E2E3098A4CF57F67B64504A03E95283B.tmp' to '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_2.uasset'
+[2021.08.05-12.38.36:010][681]LogSavePackage: Moving '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/OptionsC37361434AD18EFF12F710B2489F0ADD.tmp' to '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Cristian_Menus_Updated/Cristian_Menus/UI/Options.uasset'
+[2021.08.05-12.38.36:026][681]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.05-12.38.36:026][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu.LevelSelectionMenu
+[2021.08.05-12.38.36:026][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cristian_Menus_Updated/Cristian_Menus/UI/Options.Options
+[2021.08.05-12.38.36:027][681]LogContentValidation: Display: Validating ObjectRedirector /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.MainMenu
+[2021.08.05-12.38.36:027][681]LogContentValidation: Display: Validating ObjectRedirector /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_2.Default__MainMenu_2_C
+[2021.08.05-12.38.36:027][681]LogContentValidation: Display: Validating ObjectRedirector /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_2.MainMenu_2_C
+[2021.08.05-12.38.36:027][681]LogContentValidation: Display: Validating ObjectRedirector /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_2.MainMenu_2
+[2021.08.05-12.38.54:971][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.08.05-12.39.02:389][734]LogContentBrowser: Attempting asset rename: MainMenu_3 -> Main_Menu
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.Main_Menu_C' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:Construct' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:Tick' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__StartGameButton_K2Node_ComponentBoundEvent_40_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__OptionsButton_K2Node_ComponentBoundEvent_58_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__Button_2_K2Node_ComponentBoundEvent_77_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__LoadGame_K2Node_ComponentBoundEvent_0_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__OptionsButton_K2Node_ComponentBoundEvent_1_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__QuitButton_K2Node_ComponentBoundEvent_2_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__StartGameButton_K2Node_ComponentBoundEvent_3_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__MainMenu_SelectLevelButton_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:412][734]LogMetaData: Removing '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.SKEL_Main_Menu_C:BndEvt__MainMenu_SelectLevelButton_K2Node_ComponentBoundEvent_5_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_3.PackageMetaData'
+[2021.08.05-12.39.02:454][734]LogSavePackage: Moving '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Saved/Main_MenuA5A00E3243038C71111D59837F5A5C00.tmp' to '../../../../Users/Stephen/Desktop/Final Project/BorderGun/BorderGun/Level and Assets - Albert/PRJ666Game/Content/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.uasset'
+[2021.08.05-12.39.02:620][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.08.05-12.39.02:644][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.08.05-12.39.02:658][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.08.05-12.39.02:723][734]AssetCheck: New page: Asset Save: Main_Menu
+[2021.08.05-12.39.02:723][734]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cristian_Menus_Updated/Cristian_Menus/UI/Main_Menu.Main_Menu
+[2021.08.05-12.39.10:779][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.08.05-12.39.19:923][675]LogSlate: Window 'Replace References?' being destroyed
+[2021.08.05-12.39.19:928][675]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Main_Menu; and then delete them.
+
+Are you sure?
+[2021.08.05-12.39.19:928][675]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.39.20:368][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.05-12.39.20:866][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.08.05-12.39.27:967][675]LogSlate: Window 'Critical Failure to Consolidate Assets' being destroyed
+[2021.08.05-12.39.27:971][675]Message dialog closed, result: Ok, title: Critical Failure to Consolidate Assets, text: CRITICAL FAILURE:
+One or more assets were partially consolidated, yet still cannot be deleted for some reason. It is highly recommended that you restart the editor without saving any of the assets or packages.
+
+Affected Assets:
+ObjectRedirector_1
+ObjectRedirector_2
+
+
+Potentially Affected Packages:
+/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu
+/Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu
+/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu_2
+/Game/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu
+/Game/Cristian_Menus_Updated/Cristian_Menus/UI/Options
+
+[2021.08.05-12.39.29:376][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.39.29:376][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.39.29:385][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\MainMenu.uasset: Failed to load '/Game/Cristian_Menus/UI/MenuImages/SelectLevel': Can't find file.
+[2021.08.05-12.39.29:385][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:386][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:387][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:387][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:388][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:389][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:389][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:390][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:390][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:391][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:392][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:392][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:393][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:393][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:394][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:394][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:394][842]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow.BackArrow Referenced by BackButton
+[2021.08.05-12.39.29:395][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:395][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:396][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:396][842]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest.MinigameTest Referenced by Minigame
+[2021.08.05-12.39.29:396][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:397][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:398][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:398][842]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test.Room1Test Referenced by Room1
+[2021.08.05-12.39.29:398][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:399][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:399][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:399][842]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test.Room2Test Referenced by Room2
+[2021.08.05-12.39.29:400][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:400][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:401][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:401][842]LoadErrors: Failed to load /Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest.TutorialTest Referenced by Tutorial
+[2021.08.05-12.39.29:401][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:402][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:403][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:403][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:403][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:404][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:404][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:404][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:404][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:405][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:405][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:405][842]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:414][842]LogBlueprint: Error: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.08.05-12.39.29:417][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:418][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:418][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.39.29:419][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:420][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:420][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest': Can't find file.
+[2021.08.05-12.39.29:421][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:421][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:422][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test': Can't find file.
+[2021.08.05-12.39.29:422][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:423][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:423][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test': Can't find file.
+[2021.08.05-12.39.29:424][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:424][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:425][842]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\LevelSelectionMenu.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest': Can't find file.
+[2021.08.05-12.39.29:439][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu.LevelSelectionMenu
+[2021.08.05-12.39.29:929][842]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.05-12.39.32:056][ 88]LogSlate: Window 'LevelSelectionMenu' being destroyed
+[2021.08.05-12.39.32:063][ 88]LogSlate: Window 'LevelSelectionMenu' being destroyed
+[2021.08.05-12.39.32:066][ 88]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.39.32:067][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.39.32:076][ 88]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-12.39.32:076][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-12.40.33:383][795]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.05-12.40.33:385][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:385][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:386][795]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:386][795]LogLinker: Warning: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:388][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:388][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:389][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:392][795]LogBlueprint: Error: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.08.05-12.40.33:395][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:396][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:396][795]LogLinker: Warning: [AssetLog] C:\Users\Stephen\Desktop\Final Project\BorderGun\BorderGun\Level and Assets - Albert\PRJ666Game\Content\NewFolder\Cristian_Menus_Updated\Cristian_Menus\UI\Options.uasset: Failed to load '/Game/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/BackArrow': Can't find file.
+[2021.08.05-12.40.33:479][795]LogTexture: Display: Building textures: Room1 (AutoDXT, 740X92)
+[2021.08.05-12.40.33:479][795]LogTexture: Display: Building textures: Room_2 (AutoDXT, 740X92)
+[2021.08.05-12.40.33:485][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.08.05-12.40.47:889][795]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-12.40.50:021][795]LogUObjectGlobals: Force Deleting 36 Package(s):
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/LevelSelectionMenu.LevelSelectionMenu
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.ObjectRedirector_2
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.ObjectRedirector_1
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.MainMenu
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/Options.Options
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/PauseMenu.PauseMenu
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/TutorialTest.TutorialTest
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room2Test.Room2Test
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/Room1Test.Room1Test
+	Asset Name: /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MenuImages/MinigameTest.MinigameTest
+[2021.08.05-12.40.50:508][795]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.05-12.40.51:106][795]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.598 s
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: 
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: Cannot remove redirection from /Game/NewFolder/Cristian_Menus_Updated/Cristian_Menus/UI/MainMenu.ObjectRedirector_2, it was not registered
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: Stack: 
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff328d6988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff324a8ae1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff39704b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25fed68b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25ff8bf9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff257540d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25a2fc7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25a27157 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff373e85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff3740077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372c7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372b0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372a3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f269197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f264310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff962be858 USER32.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff962be299 USER32.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372d2274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff3726d486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25abc11e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff25fec888 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff1cb96de8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff0a6f70e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff0a6f72ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff0a6e7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff1d3a0083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff1d399532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff1d4180a2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff1d39cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff373e85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff3740077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372c7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372b0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff372a3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.05-12.40.51:106][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f269197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f264310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff962be858 USER32.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff962be299 USER32.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff5f27f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007ff7255f8857 UE4Editor.exe!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007ff7256111ac UE4Editor.exe!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007ff72561128a UE4Editor.exe!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007ff7256252ed UE4Editor.exe!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007ff72562801a UE4Editor.exe!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff96467034 KERNEL32.DLL!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: [Callstack] 0x00007fff97ec2651 ntdll.dll!UnknownFunction []
+[2021.08.05-12.40.51:107][795]LogOutputDevice: Error: 
